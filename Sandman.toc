@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Sandman V0.1
+## Notes: |cFF7E9CE5Automaticly distributes a specific amount of Hourglass Sand to raid members.                                                           |cFF45E849Use /sandman
+## Author: Dieken
+Sandman.lua
